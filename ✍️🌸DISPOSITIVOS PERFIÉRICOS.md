@@ -40,7 +40,8 @@ Con todo lo visto hasta el momento entonces podemos concluir que… la percepci�
 
 Para entenderlo mucho mejor el profe nos mostró dos imágenes que nos mostraban como vemos los humanos las flores vs cómo las ven las abejas… ¡miren nomash\!
 
-**![][image1]**  
+<img width="1024" height="1024" alt="percepcion-flor" src="https://github.com/user-attachments/assets/34b67bee-6fdb-4d64-906a-f701a6dab0f3" />
+**  
 Extraído de: [https://github.com/disenoUDP/dis9087-2026-2/blob/633595e91334b9b73b0727689d00a591e4ccc2f0/sesion-01/img/percepcion-flor.png](https://github.com/disenoUDP/dis9087-2026-2/blob/633595e91334b9b73b0727689d00a591e4ccc2f0/sesion-01/img/percepcion-flor.png)
 
 ¡Es muy interesante\! La imagen de la izquierda muestra una flor como la vemos los humanos y a la derecha vemos como se ve bajo luz ultravioleta, invisible al ojo humano pero visible para las abejas; y aun así, esta es un ejemplo muy antropocentrista, pues este es sólo como pensamos nosotros que verían ellas, en realidad no estamos seguros si esta es la manera de de ellas de verlas …siquiera ¿ven imágenes como nosotros las vemos?
