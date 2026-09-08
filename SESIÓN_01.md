@@ -5,7 +5,7 @@
 
 ---
 
-Al iniciar la clase el profesor se presentó a él y su ayudantes, ellos son Felipe Roa y Santiago Gaete, seguido de esto empezamos conociendo un poco sobre los proyectos en lo que había participado el profesor y cómo no fue bueno en las matemáticas cuando estaba en el colegio pero ahora ha hecho las paces con ellas y forman parte fundamental de su trabajo inspirandonos a todos aquellos que tenemos esta relación complicada con ellas, después de todo, con practica todo se puede mejorar y ¡lograr!.
+Al iniciar la clase el profesor se presentó a él, **Felipe Roa** y a su ayudante, **Santiago Gaete**, seguido de esto empezamos conociendo un poco sobre los proyectos en lo que había participado el profesor y cómo no fue bueno en las matemáticas cuando estaba en el colegio pero ahora ha hecho las paces con ellas y forman parte fundamental de su trabajo inspirándonos a todos aquellos que tenemos esta relación tan complicada con ellas, demostrándonos que con práctica y una actitud positiva todos podemos mejorar y lograr grandes cosas. c:
 
 Ahora sí, ¡entramos al tema…!
 
@@ -20,7 +20,7 @@ Ahora sí, ¡entramos al tema…!
 * **Definición de Fenomenología:** Se entiende como el estudio de las "esencias" dentro de las existencias. 
 * *Nota personal:* Aunque fue algo pesada de entender en clase, logré entenderla muchísimo mejor.
 
-Empezamos definiendo que... **¡Nuestra interpretación nos permite ver el mundo!** Ok, genial, pero ¿qué quiere decir realmente esto? Bueno pues...
+Empezamos definiendo que... **¡Nuestra interpretación nos permite ver el mundo!** Okey... pero ¿qué quiere decir realmente esto? Bueno pues...
 
 <br>
 
@@ -64,17 +64,20 @@ Existen en el mundo, en un entorno, y procesan la información a través del sig
 6. **Decisión:** El algoritmo determina qué hacer con esa información.
 7. **Acción (output):** Finalmente, ejecuta una respuesta física o lógica.
 
-<br>
+---
 
-Seguido de esta comparativa, dejamos en claro las siguientes definiciones fundamentales:
+A partir de la anterior comparativa, dejamos en claro las siguientes definiciones fundamentales:
 
 * **Fenómeno:** Algo que ocurre en el mundo.
 * **Percepción:** Un organismo posee características para relacionarse con algo.
 * **Representación:** Construir esa forma de describir ese algo.
 * **Interpretación:** Le atribuimos a ese algo un significado.
 
+<div align="center">
+  
+  Con todo lo visto hasta el momento entonces podemos concluir que... **la percepción es el medio y yo como cuerpo mezclados como uno, inseparables, ninguno de estos puede ser sin el otro.** 
 
-Con todo lo visto hasta el momento entonces podemos concluir que... **la percepción es el medio y yo como cuerpo mezclados como uno, inseparables, ninguno de estos puede ser sin el otro.**
+</div>
 
 Para entenderlo mucho mejor el profe nos mostró dos imágenes que nos mostraban cómo vemos los humanos las flores vs cómo las ven las abejas... ¡miren nomash!
 
@@ -86,8 +89,6 @@ Extraído de:
 [Repositorio dis9087-2026-2](https://github.com/disenoUDP/dis9087-2026-2/tree/main/sesion-01)
 
 </sub></div>
-
-<br>
 
 ¡Es muy interesante! La imagen de la izquierda muestra una flor como la vemos los humanos y a la derecha vemos cómo se ve bajo luz ultravioleta, invisible al ojo humano pero visible para las abejas; y aun así, este es un ejemplo muy antropocentrista, pues este es sólo como pensamos nosotros que verían ellas, en realidad no estamos seguros si esta es la manera de de ellas de verlas... siquiera ¿ven imágenes como nosotros las vemos?
 
