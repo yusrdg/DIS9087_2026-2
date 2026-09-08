@@ -15,8 +15,6 @@ Ahora sí, ¡entramos al tema…!
 
 ---
 
-### Primera lectura: Merleau-Ponty – *Fenomenología de la percepción*
-
 * **Definición de Fenomenología:** Se entiende como el estudio de las "esencias" dentro de las existencias. 
 * *Nota personal:* Aunque fue algo pesada de entender en clase, logré entenderla muchísimo mejor.
 
