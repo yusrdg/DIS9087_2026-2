@@ -5,12 +5,9 @@
 
 ---
 
-### Introducción a la clase
-Al iniciar la clase, el profesor se presentó a él y a sus ayudantes:
-* Felipe Roa
-* Santiago Gaete
+Al iniciar la clase el profesor se presentó a él y su ayudantes, ellos son Felipe Roa y Santiago Gaete, seguido de esto empezamos conociendo un poco sobre los proyectos en lo que había participado el profesor y cómo no fue bueno en las matemáticas cuando estaba en el colegio pero ahora ha hecho las paces con ellas y forman parte fundamental de su trabajo inspirandonos a todos aquellos que tenemos esta relación complicada con ellas, después de todo, con practica todo se puede mejorar y ¡lograr!.
 
-Seguido de esto, empezamos conociendo un poco sobre los proyectos en los que había participado el profesor y cómo no fue bueno en las matemáticas cuando estaba en el colegio. Pero ahora ha hecho las paces con ellas y forman parte fundamental de su trabajo, inspirándonos a todos aquellos que tenemos esta relación complicada con ellas. *Después de todo, con práctica todo se puede mejorar.*
+Ahora sí, ¡entramos al tema…!
 
 <br>
 
@@ -127,3 +124,7 @@ Y de la anterior podemos concluir que entonces el diseño... es **¡PODER! MUAJA
 Es esta ética que debemos tener con el diseño y la tecnología y los límites que debemos de tener con esta de lo que trata la segunda lectura compartida por nuestro profesor “¿Tienen política los artefactos? por Langdon Winner”.
 
 Para finalizar con la clase concluimos que nosotros los diseñadores, no diseñamos máquinas que perciben la “realidad”, sino que diseñamos sistemas que **seleccionan (sensan)** fenómenos del mundo que traducen en **datos (bits)** y actúan a partir de una **interpretación (significado que se le atribuye a un algo)** operacional de ellos.
+
+---
+
+With luv Yuri🌸~
