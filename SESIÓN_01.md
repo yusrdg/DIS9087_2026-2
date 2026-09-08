@@ -90,6 +90,8 @@ Extraído de:
 
 </sub></div>
 
+<br>
+
 ¡Es muy interesante! La imagen de la izquierda muestra una flor como la vemos los humanos y a la derecha vemos cómo se ve bajo luz ultravioleta, invisible al ojo humano pero visible para las abejas; y aun así, este es un ejemplo muy antropocentrista, pues este es sólo como pensamos nosotros que verían ellas, en realidad no estamos seguros si esta es la manera de de ellas de verlas... siquiera ¿ven imágenes como nosotros las vemos?
 
 Por lo tanto, que algo no sea perceptible para nosotros no significa que no exista y debemos despojarnos de los límites de "realidad" para poder establecer distintas correlaciones entre nosotros y las máquinas.
