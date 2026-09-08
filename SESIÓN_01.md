@@ -34,3 +34,26 @@ $$Fenómeno\ físico \neq Experiencia\ perceptual$$
 
 Entonces...
 </div>
+
+Fenómeno físico se refiere a lo que existe, que simplemente... están ahí y sufren las consecuencias de la presión.
+
+En cuanto a la experiencia perceptual se refiere a aquella visión viva que tenemos sobre las cosas y existe sólo en nuestra mente y el mundo.
+
+Teniendo como base estos conceptos empezamos a *"pensar como máquinas"*, teniendo en cuenta cómo nosotros los humanos *"sentimos antes de sensar"* y, de manera algo irónica, algo similar sucede con estas.
+
+---
+
+### El cuerpo humano...
+
+Existe en el mundo, en un entorno, y experimenta el siguiente flujo de procesamiento:
+
+1. **Entorno:** El cuerpo existe y cohabita en un mundo específico.
+2. **Estímulo:** Experimenta un impacto o señal del entorno.
+3. **Cuerpo y sentidos:** Interpretan físicamente ese estímulo recibido.
+4. **Percepción:** Se genera una conciencia o registro de estos estímulos.
+5. **Interpretación:** Se procesa internamente la información.
+6. **Significado:** Se le atribuye un sentido o valor a lo que se interpretó.
+7. **Acción:** Finalmente, todo este ciclo se convierte en una respuesta o comportamiento concreto.
+
+### Las máquinas...
+
