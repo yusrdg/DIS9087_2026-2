@@ -20,8 +20,6 @@ Ahora sí, ¡entramos al tema…!
 
 Empezamos definiendo que... **¡Nuestra interpretación nos permite ver el mundo!** Okey... pero ¿qué quiere decir realmente esto? Bueno pues...
 
-<br>
-
 <div align="center">
 
 $$Fenómeno\ físico \neq Experiencia\ perceptual$$
