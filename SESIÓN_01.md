@@ -24,7 +24,6 @@ Empezamos definiendo que... **¡Nuestra interpretación nos permite ver el mundo
 
 <div align="center">
 
-### Concepto Clave
 $$Fenómeno\ físico \neq Experiencia\ perceptual$$
 
 Entonces...
