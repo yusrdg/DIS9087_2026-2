@@ -16,7 +16,7 @@ Ahora sí, ¡entramos al tema…!
 ---
 
 * **Definición de Fenomenología:** Se entiende como el estudio de las "esencias" dentro de las existencias. 
-* *Nota personal:* Aunque fue algo pesada de entender en clase, logré entenderla muchísimo mejor.
+* *Nota personal:* Aunque fue algo pesada de entender en la lectura, en clase fue mucho mas claro. :D
 
 Empezamos definiendo que... **¡Nuestra interpretación nos permite ver el mundo!** Okey... pero ¿qué quiere decir realmente esto? Bueno pues...
 
