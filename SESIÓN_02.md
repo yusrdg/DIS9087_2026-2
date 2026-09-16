@@ -73,3 +73,7 @@ Y aquí es donde empieza lo buenoo, EEE!! pues recibimos nuestro primer proyecto
 
 De esta manera estamos usando como base un proyecto muy divertido realizado por Catherine donde tiene un repositorio de este en Github.
 
+---
+
+With luv Yuri🌸~
+
