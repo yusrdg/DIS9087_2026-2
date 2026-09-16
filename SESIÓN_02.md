@@ -60,7 +60,8 @@ Algunas de estas librerías son:
 
 ---
 
-### Nuestro primer proyecto
+> [!IMPORTANT]
+> ### Nuestro primer proyecto
 
 Y aquí es donde empieza lo buenoo, EEE!! pues recibimos nuestro primer proyecto para el cual disponemos de dos semanas y usaremos:
 
