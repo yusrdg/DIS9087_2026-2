@@ -1,7 +1,14 @@
 ideas clave para organizar:
+<div align="center">
+  <h2>SESIÓN 04 - DPPI</h2>
+  <h3>03/09/2026</h3>
+</div>
 
-### 03/sep/2026
-Dispositivos periféricos y plataformas para la interacción
+---
+
+### Dispositivos periféricos y plataformas para la interacción
+
+Hala Profe Felipe y Santi! c: 
 
 Al inicio de la clase estuvimos presentando nuestros ejercicios y felicitaciones
 segundo encargo mayor profundidad semiotica para entender completamente mediapipe y open cv creando una experiencia capaz de explicar y evidencias como pueden entendere los ocnceptos de “realidad”
