@@ -1,4 +1,4 @@
-ideas clave para organizar:
+organizando inf... demo
 <div align="center">
   <h2>SESIÓN 04 - DPPI</h2>
   <h3>03/09/2026</h3>
@@ -25,25 +25,7 @@ Hoy sentí fue una clase bastante corta y muy emocionante, dividiéndose de la s
 
 </details>
 
-<details>
-<summary><b>🌍 Tema 2: Conflictos de la IA en la Sociedad</b></summary>
 
-Detalles sobre el impacto de las IA:
-* **Medioambiental:** El consumo de agua en servidores (ej. caso Chile).
-* **Laboral:** Reemplazo y transformación de puestos de trabajo.
-* **Derechos de Autor:** Conflictos con la propiedad intelectual (PI).
-
-</details>
-
-<details>
-<summary><b>🛠️ Tema 3: Modelos LLM y Prompting</b></summary>
-
-Contenido técnico de la clase:
-* Diferencias entre LLM generalistas y de contexto acotado.
-* Explicación detallada del **Método CREA**.
-* Técnicas de consulta (Zero shot, Few shot, Cadena de pensamiento).
-
-</details>
 
 
 Al inicio de la clase estuvimos presentando nuestros ejercicios y felicitaciones
