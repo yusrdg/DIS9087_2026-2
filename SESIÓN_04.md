@@ -1,6 +1,6 @@
 ideas clave para organizar:
 
-03/sep/2026
+### 03/sep/2026
 Dispositivos periféricos y plataformas para la interacción
 
 Al inicio de la clase estuvimos presentando nuestros ejercicios y felicitaciones
