@@ -6,22 +6,20 @@ organizando inf... demo
 
 ---
 
-### Dispositivos periféricos y plataformas para la interacción
-
 Hala Profe Felipe y Santi! c: 
 
 <br>
 
-Hoy sentí fue una clase bastante corta y muy emocionante, dividiéndose de la siguiente manera...
+Hoy sentí que esta fue una clase que se pasó super rápido y a la vez muy emocionante. La clase se dividió de la siguiente manera...
 
 ### División clase 04
 
 <details>
-<summary><b>Da clic para desplegar</b></summary>
+<summary><b>Da click para desplegar</b></summary>
 
 * Revisión y presentación de encargo [gatush](https://github.com/yusrdg/Gatush/tree/main/dppi-tarea-02)
 * Presentación del siguiente encargo
-* Ejemplo de encargo demo 12 realidades por parte del profesor
+* Demo de encargo "12 realidades" por parte del profesor
 
 </details>
 
@@ -35,16 +33,15 @@ En esta parte de la clase nos tomamos el tiempo para ver lo que habían hecho nu
 
 <h3>Presentación del encargo</h3>
 
+Luego tuvimos la presentación de lo que debíamos realizar para nuestro siguiente proyecto, donde lo conectaremos el trabajo revisado esta clase. En este deberemos comprender como funciona MediaPipe y OpenCV de manera aislada, con el fin de crear una experiencia capaz de explicar y evidenciar cómo pueden entenderse los conceptos de "realidad" y tener en cuenta una mayor carga semiótica en este.
 
 <br>
 
-.........
+<h3>Demo de encargo "12 realidades"</h3>
 
-Al inicio de la clase estuvimos presentando nuestros ejercicios y felicitaciones
-segundo encargo mayor profundidad semiotica para entender completamente mediapipe y open cv creando una experiencia capaz de explicar y evidencias como pueden entendere los ocnceptos de “realidad”
-conectarlas con ejercicio uno separadas ejercicio2
-demo 12 realidades del profesor
-este encargo no solo debe ser funcional tambien debe funcionar en una pagina web montqada para facilitar su manera de compartirlo
+Finalmente para entender un poco más de que iba el encargo y entender la amplitud de interacciones que podemos obtener por medio de MediaPipe y OpenCV el profesor preparó una demo con 12 pareces de las realidades que podemos lograr con estas bibliotecas. Puedes observar la demo [aquí](https://fefeliperoar.github.io/dos-realidades/demo-12-realidades.html)
+
+
 diferencia tecnica medidapipe puede correr online open cv debe hacerse un llamado a java script
 
 ---
