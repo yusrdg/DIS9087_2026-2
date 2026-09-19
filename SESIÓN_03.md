@@ -5,8 +5,6 @@
 
 ---
 
-### Dispositivos periféricos y plataformas para la interacción
-
 Hola, tu!! Espero que te encuentres de maravilla. Preparateee pq esta fue una clase INCREÍBLE
 
 Antes de la sesión debíamos tener el archivo de gatos (por Catherine) corriendo en nuestras computadoras.
