@@ -5,8 +5,6 @@
 
 ---
 
-### Dispositivos periféricos y plataformas para la interacción
-
 Hiii!! Profe Felipe y Santi, ¿Qué tal? c:
 
 Bueno bueno, hoy iniciamos la clase hablando sobre el encargo que nos dejaron la clase pasada con Santiago, el ayudante de nuestro profesor, donde le contamos cuáles fueron nuestras dificultades como las cosas que nos parecieron ligeras de este.
