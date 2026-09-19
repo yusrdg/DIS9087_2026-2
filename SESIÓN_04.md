@@ -1,4 +1,3 @@
-organizando inf... demo
 <div align="center">
   <h2>SESIÓN 04 - DPPI</h2>
   <h3>03/09/2026</h3>
@@ -41,9 +40,15 @@ Luego tuvimos la presentación de lo que debíamos realizar para nuestro siguien
 
 Finalmente para entender un poco más de que iba el encargo y entender la amplitud de interacciones que podemos obtener por medio de MediaPipe y OpenCV el profesor preparó una demo con 12 pareces de las realidades que podemos lograr con estas bibliotecas. Puedes observar la demo [aquí.](https://fefeliperoar.github.io/dos-realidades/demo-12-realidades.html)
 
-[!IMPORTANT]
-**Texto en Morado:**
-diferencia tecnica medidapipe puede correr online open cv debe hacerse un llamado a java script
+<br>
+
+> [!IMPORTANT]
+> ### Nuestro segundo proyecto debe poder visualizarse de manera online 😝
+A diferencia de MedidaPipe (puede correr online, debido a que es una biblioteca de google), para OpenCV debemos hacer un llamado a JavaScript, ademas de contar con archivos html, css y js para su completo funcionamiento de manera online. 
+
+<br>
+
+BYE AND LESGOOO!!!
 
 ---
 
