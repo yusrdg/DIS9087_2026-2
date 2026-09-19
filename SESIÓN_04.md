@@ -39,9 +39,10 @@ Luego tuvimos la presentación de lo que debíamos realizar para nuestro siguien
 
 <h3>Demo de encargo "12 realidades"</h3>
 
-Finalmente para entender un poco más de que iba el encargo y entender la amplitud de interacciones que podemos obtener por medio de MediaPipe y OpenCV el profesor preparó una demo con 12 pareces de las realidades que podemos lograr con estas bibliotecas. Puedes observar la demo [aquí](https://fefeliperoar.github.io/dos-realidades/demo-12-realidades.html)
+Finalmente para entender un poco más de que iba el encargo y entender la amplitud de interacciones que podemos obtener por medio de MediaPipe y OpenCV el profesor preparó una demo con 12 pareces de las realidades que podemos lograr con estas bibliotecas. Puedes observar la demo [aquí.](https://fefeliperoar.github.io/dos-realidades/demo-12-realidades.html)
 
-
+[!IMPORTANT]
+**Texto en Morado:**
 diferencia tecnica medidapipe puede correr online open cv debe hacerse un llamado a java script
 
 ---
