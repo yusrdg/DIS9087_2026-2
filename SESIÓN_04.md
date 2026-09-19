@@ -29,7 +29,16 @@ Hoy sentí fue una clase bastante corta y muy emocionante, dividiéndose de la s
 
 <h3>Revisión y presentación del encargo</h3>
 
-En esta parte de la clase nos tomamos el tiempo para ver lo que habían hecho nuestros compañeros con el el encargo y la esencia que le habían dado a este, y todos fueron muy divertidos e incluso otros muy interesantes, donde especialmente me ha fascinado el de mi compañera Fernanda Angel donde su trabajo era basado en cartas del tarot creando unos gestos e interacciones bastante interesantes,  
+En esta parte de la clase nos tomamos el tiempo para ver lo que habían hecho nuestros compañeros con el el encargo y la esencia que le habían dado a este, y todos fueron muy divertidos e incluso otros muy interesantes, donde especialmente me ha fascinado el de mi compañera Fernanda Angel donde su trabajo era basado en [cartas del tarot](https://github.com/fernandaangel-cpu/gatos-2/tree/main/dppi-tarea-02) creando unos gestos e interacciones bastante interesantes. También me ha encantado el de mi compañera Camila Rámirez, donde en su ejercicio ha logrado interactuar con todo el cuerpo imitando poses de ["Jojo's Bizarre Adventure"](https://github.com/Estrabismx/gatos/tree/main/dppi-tarea-02) y finalmente (pero no me nos importante) mi compañera Josefa Kristina hizo un trabajo increible, donde ha usado a [Björk](https://github.com/josefa-kristina/gatos) donde su proyecto no solo interactuaba con gestos, sino que ¡tambien con moviemintos! :o
+
+<br>
+
+<h3>Presentación del encargo</h3>
+
+
+<br>
+
+.........
 
 Al inicio de la clase estuvimos presentando nuestros ejercicios y felicitaciones
 segundo encargo mayor profundidad semiotica para entender completamente mediapipe y open cv creando una experiencia capaz de explicar y evidencias como pueden entendere los ocnceptos de “realidad”
