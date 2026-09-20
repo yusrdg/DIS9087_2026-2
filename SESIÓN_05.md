@@ -1,5 +1,12 @@
 inf a organizar:
 
+<div align="center">
+  <h2>SESIÓN 05 - DPPI</h2>
+  <h3>10/09/2026</h3>
+</div>
+
+---
+
 avances de proyecto y retroalimentacion de ideas
 como poder previsualizar proyecto (vscode) y cargar en la web
 qué es vscode?
