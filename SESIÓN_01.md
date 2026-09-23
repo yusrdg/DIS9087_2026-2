@@ -11,7 +11,7 @@ Ahora sí, ¡entramos al tema…!
 
 <br>
 
-> **Nota de contexto:** Debido a dificultades de movilidad en la zona universitaria, teníamos dos lecturas pendientes para esta clase, que sería una introducción general de la lógica de las clases que tendríamos durante el semestre.
+> **Nota:** Debido a dificultades de movilidad en la zona universitaria, teníamos dos lecturas pendientes para esta clase, que sería una introducción general de la lógica de las clases que tendríamos durante el semestre.
 
 ---
 
