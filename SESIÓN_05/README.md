@@ -7,11 +7,14 @@ inf a organizar:
 
 ---
 
-avances de proyecto y retroalimentacion de ideas
-como poder previsualizar proyecto (vscode) y cargar en la web
-qué es vscode?
-archivos requeridos para el proyecto y para qué funciona cada uno
-significado de colores de los id de programación
-textos a leer a la vuelta de clase
+Hii! queridos profe Felipe y Santi, hope ur doing GREAT!
+
+La clase de hoy se dividió de la siguiente manera:
+- Avances de proyecto y retroalimentacion de ideas
+- Qué es vscode?
+- Como poder previsualizar proyecto (vscode) y cargar en la web
+- Archivos requeridos para el proyecto y para qué funciona cada uno
+- Significado de colores de los id de programación
+- Textos a leer a la vuelta de clase
 
 
